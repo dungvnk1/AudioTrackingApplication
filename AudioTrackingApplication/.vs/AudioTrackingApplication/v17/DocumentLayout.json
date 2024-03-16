@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{D9A08768-AC07-4D27-9A3D-E22ACFC63AB6}|AudioTrackingApplication.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9A08768-AC07-4D27-9A3D-E22ACFC63AB6}|AudioTrackingApplication.csproj|e:\\intern c#\\audiotrackingapplication\\audiotrackingapplication\\audiotrackingapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D9A08768-AC07-4D27-9A3D-E22ACFC63AB6}|AudioTrackingApplication.csproj|E:\\Intern C#\\AudioTrackingApplication\\AudioTrackingApplication\\AudioTrackingApplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D9A08768-AC07-4D27-9A3D-E22ACFC63AB6}|AudioTrackingApplication.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "E:\\Intern C#\\AudioTrackingApplication\\AudioTrackingApplication\\AudioTrackingApplication\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADkAAAAnAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T14:54:28.891Z",
+              "WhenOpened": "2024-03-16T12:59:53.068Z",
               "EditorCaption": ""
             },
             {
@@ -42,7 +42,7 @@
               "ToolTip": "E:\\Intern C#\\AudioTrackingApplication\\AudioTrackingApplication\\AudioTrackingApplication\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-13T14:46:46.49Z",
+              "WhenOpened": "2024-03-16T12:59:50.697Z",
               "EditorCaption": ""
             }
           ]

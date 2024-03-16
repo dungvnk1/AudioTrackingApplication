@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="startButton" Content="Start Monitoring" VerticalAlignment="Center" HorizontalAlignment="Center" Width="120" Height="40" Click="StartButton_Click"/>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBox x:Name="appNameTextBox" Width="300" Margin="10" />
+            <Button Content="Check Volume" Click="StartButton_Click" Width="100" Margin="10" />
+        </StackPanel>
     </Grid>
 </Window>

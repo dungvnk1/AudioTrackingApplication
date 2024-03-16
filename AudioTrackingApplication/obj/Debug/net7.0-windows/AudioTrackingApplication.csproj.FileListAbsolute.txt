@@ -22,3 +22,10 @@ E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingAppl
 E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingApplication\obj\Debug\net7.0-windows\AudioTrackingApplication.pdb
 E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingApplication\obj\Debug\net7.0-windows\AudioTrackingApplication.genruntimeconfig.cache
 E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingApplication\obj\Debug\net7.0-windows\ref\AudioTrackingApplication.dll
+E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingApplication\bin\Debug\net7.0-windows\NAudio.dll
+E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingApplication\bin\Debug\net7.0-windows\NAudio.Asio.dll
+E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingApplication\bin\Debug\net7.0-windows\NAudio.Core.dll
+E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingApplication\bin\Debug\net7.0-windows\NAudio.Midi.dll
+E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingApplication\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingApplication\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+E:\Intern C#\AudioTrackingApplication\AudioTrackingApplication\AudioTrackingApplication\bin\Debug\net7.0-windows\NAudio.WinMM.dll
